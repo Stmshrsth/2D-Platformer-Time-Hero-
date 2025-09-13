@@ -41,5 +41,5 @@ Node & scene organization in Godot
 Signals for collision and UI updates
 Debugging collisions and player interactions
 
-
+playable file link: https://github.com/Stmshrsth/2D-Platformer-Time-Hero-/releases/tag/v1.0 
 
